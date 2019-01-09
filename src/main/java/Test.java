@@ -14,7 +14,7 @@ public class Test {
         System.out.println("dev commit number 222222222222222222");
 
         System.out.println("dev commit number 33333333");
-        System.out.println("-----华丽的分割线test--------------------------");
+
 
         System.out.println("dev分割线-----------------");
         System.out.println("dev分割线----222222222222-------------");
