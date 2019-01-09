@@ -27,5 +27,6 @@ public class Test {
         System.out.println("测试pull和pull rebase");
 
          System.out.println("-服务器上修改---------");
+                System.out.println("-服务器上修改2222---------");
     }
 }
