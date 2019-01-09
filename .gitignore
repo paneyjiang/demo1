@@ -1,0 +1,23 @@
+## IDEA
+*.iml
+.idea/
+## Eclipse
+.setting/
+.classpath
+.project
+
+target/
+build/
+.gitignore
+
+
+*.iml
+.idea/
+## Eclipse
+.setting/
+.classpath
+.project
+
+target/
+build/
+.settings
