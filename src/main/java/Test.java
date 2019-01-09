@@ -35,6 +35,7 @@ public class Test {
            System.out.println("pull444444444444444");
         System.out.println("local-----pull");
         System.out.println("local---pulll3333333444444");
+         System.out.println("服务器55555555555");
         System.out.println("55555local-------55555");
     }
 }
