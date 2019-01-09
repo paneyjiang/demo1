@@ -10,18 +10,13 @@ public class Test {
         System.out.println("---master 22222");
         System.out.println("-------------------------------");
         System.out.println("dev commit number 1111111111");
-
         System.out.println("dev commit number 222222222222222222");
-
         System.out.println("dev commit number 33333333");
-
-
         System.out.println("dev分割线-----------------");
         System.out.println("dev分割线----222222222222-------------");
         System.out.println("dev分割线----333333333-------------");
-
-
         System.out.println("master分割线");
         System.out.println("master分割线2222222");
+
     }
 }
