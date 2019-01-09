@@ -25,5 +25,7 @@ public class Test {
         System.out.println("---master 修改开始over----------------------------");
 
         System.out.println("测试pull和pull rebase");
+
+         System.out.println("-服务器上修改---------");
     }
 }
