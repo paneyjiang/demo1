@@ -23,5 +23,7 @@ public class Test {
 
         System.out.println("---master 修改开始begin----------------------------");
         System.out.println("---master 修改开始over----------------------------");
+        
+         System.out.println("-服务器上修改---------");
     }
 }
