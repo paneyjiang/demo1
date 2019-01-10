@@ -38,7 +38,5 @@ public class Test {
          System.out.println("服务器55555555555");
         System.out.println("55555local-------55555");
         
-          System.out.println("666666666666666666666-----");
-           System.out.println("88888888888888888888888888-----");
     }
 }
