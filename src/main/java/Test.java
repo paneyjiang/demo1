@@ -40,7 +40,6 @@ public class Test {
         System.out.println("77777777777777777");
 
           System.out.println("666666666666666666666-----");
-           System.out.println("88888888888888888888888888-----");
-        System.out.println("99999999999999999999999------------------locals");
+        System.out.println("----------------------------");
     }
 }
